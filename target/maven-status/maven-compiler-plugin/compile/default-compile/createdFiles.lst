@@ -1,0 +1,5 @@
+tr\com\innova\somidp\saml\SamlResponseGenerator.class
+tr\com\innova\somidp\servlet\SamlServlet.class
+tr\com\innova\somidp\saml\WrappedSamlResponse.class
+tr\com\innova\somidp\saml\PemKeyLoader.class
+tr\com\innova\somidp\saml\IdpConfig.class
